@@ -1,0 +1,5 @@
+{
+  "name": "LegalEagle AI",
+  "description": "An intelligent contract review and drafting platform using Gemini 2.5 to identify risks, suggest modifications, and ensure legal compliance.",
+  "requestFramePermissions": []
+}
